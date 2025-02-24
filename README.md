@@ -18,13 +18,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PowerBI_Logo.svg" title="Power BI" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.png" title="Power BI" width="50"/>
 </div>
 
 ---
 
 ## 📌 **Projetos em Destaque**
-🔹 [Projeto 1 - Nome do Projeto](https://github.com/seu-usuario/repo1) → Breve descrição  
+🔹 [Projeto ML - Auto-Supervised Federated Learning](https://github.com/Arthur-Dionizio/projects/ML/SSFL) → Breve descrição  
 🔹 [Projeto 2 - Nome do Projeto](https://github.com/seu-usuario/repo2) → Breve descrição  
 
 📂 Para ver todos os meus projetos, acesse [meu repositório](https://github.com/seu-usuario).
@@ -35,7 +35,7 @@
 📩 **E-mail pessoal:** [arthur.dionizio77@email.com](mailto:arthur.dionizio77@email.com)  
 📩 **E-mail institucional (UNICAMP):** [a250814@dac.unicamp.br](mailto:a250814@dac.unicamp.br)  
 
-💼 **LinkedIn:** [linkedin.com/in/arthur-dionizio](https://www.linkedin.com/in/arthur-dionizio)  
+💼 **LinkedIn:** [linkedin.com/in/arthur-dionizio](https://www.linkedin.com/in/arthurdionizio)  
 ---
 
 ### ⭐ **Ficarei muito grato se você deixar uma estrela nos meus repositórios!**  
