@@ -6,5 +6,5 @@
 
 
 <h1 align="center">Olá, sejam bem-vindos(as)!</h1>
-<h1 align="center">Obrigado pela visita!💚</h1>
+<h2 align="center">Obrigado pela visita!💚</h2>
 Sou estudante de Matemática Aplicada e Computacional pela UNICAMP, com foco em Inteligência Artificial e Análise de Dados.
