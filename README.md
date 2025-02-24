@@ -1,7 +1,7 @@
 <p align="center">
-  <span style="font-size: 250px;">🌄</span>
+  <span style="font-size: 250 px;">🌄</span>
   <img src="banner.gif" width="325px">
-  <span style="font-size: 250px;">🌄</span>
+  <span style="font-size: 250 px;">🌄</span>
 </p>
 
 <h1 align="center">Olá, sejam bem-vindos(as)! Obrigado pela visita!💚</h1>
