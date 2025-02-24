@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.png" title="Power BI" width="50"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532)" title="Power BI" width="50"/>
 </div>
 
 ---
