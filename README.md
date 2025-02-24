@@ -1,8 +1,9 @@
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="emoji.png" width="80px">
   <img src="banner.gif" width="325px">
   <img src="emoji.png" width="80px">
-</p>
+</div>
+
 
 <h1 align="center">Olá, sejam bem-vindos(as)! Obrigado pela visita!💚</h1>
 
