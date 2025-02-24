@@ -18,10 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50"/>
+  <img src="https://cdn-icons-png.freepik.com/256/4248/4248443.png?semt=ais_hybrid" title="SQL" width="50"/>
+  <img src="https://i.sstatic.net/ogimG.png" title="LaTeX" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" title="Power BI" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX" width="50"/>
 
 </div>
 
@@ -29,7 +30,7 @@
 
 ## 📌 **Projetos em Destaque**
 🔹 [Projeto ML - Auto-Supervised Federated Learning](https://github.com/Arthur-Dionizio/projects/ML/SSFL) → Breve descrição  
-🔹 [Projeto 2 - Nome do Projeto](https://github.com/seu-usuario/repo2) → Breve descrição  
+🔹 [Projeto 2 - Metodos_de_Otimizacao](https://github.com/Arthur-Dionizio/projects/otimizacao) → Breve descrição  
 
 📂 Para ver todos os meus projetos, acesse [meu repositório](https://github.com/seu-usuario).
 
