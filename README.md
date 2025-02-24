@@ -1,8 +1,10 @@
-<img src = "banner" width = "325px">
+<img src = "banner" width = "325px" align = right>
+
+#Olá, sejam bem-vindos(as)! Obrigado pela visita!💚
+
+Sou estudante de Matemática Aplicada e Computacional pela UNICAMP, com foco em Inteligência Artificial e Análise de Dados.
 
 
-
-## Hi there 👋
 
 <!--
 **Arthur-Dionizio/Arthur-Dionizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
