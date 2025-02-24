@@ -30,6 +30,7 @@
 
 ## 📌 **Projetos em Destaque**
 🔹 [Projeto ML - Auto-Supervised Federated Learning](https://github.com/Arthur-Dionizio/portfolio/blob/main/ML/SSFL) → Breve descrição
+
 🔹 [Projeto 2 - Metodos_de_Otimizacao](https://github.com/Arthur-Dionizio/projects/otimizacao) → Breve descrição  
 
 📂 Para ver todos os meus projetos, acesse [meu repositório](https://github.com/seu-usuario).
