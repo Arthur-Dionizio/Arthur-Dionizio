@@ -32,7 +32,7 @@
 🔹 [Projeto ML - Auto-Supervised Federated Learning](https://github.com/Arthur-Dionizio/portfolio/blob/main/ML/SSFL.md) → Breve descrição
 
 
-📂 Para ver todos os meus projetos, acesse [meu repositório](https://github.com/seu-usuario).
+📂 Para ver todos os meus projetos, acesse [meu repositório](https://github.com/Arthur-Dionizio/portfolio).
 
 ---
 
