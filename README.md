@@ -36,6 +36,14 @@
 
 ---
 
+## 📜 Certificados  
+
+🔗 Veja todos os meus certificados no LinkedIn:  
+[![Certificados no LinkedIn](https://img.shields.io/badge/🔗-Ver_Certificados_no_LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/arthurdionizio/details/certifications/)
+
+
+---
+
 ## 📫 **Contato e Redes**
 📩 **E-mail pessoal:** [arthur.dionizio77@email.com](mailto:arthur.dionizio77@email.com)  
 📩 **E-mail institucional (UNICAMP):** [a250814@dac.unicamp.br](mailto:a250814@dac.unicamp.br)  
